@@ -1,9 +1,9 @@
 {
   "module": "vie_scolaire",
-  "latest_version": "1.0.7",
+  "latest_version": "1.0.8",
   "min_app_version": "6.3.0",
-  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.7/vie_scolaire_v1.0.7.zip",
-  "sha256": "1fe7a058f649fd994e3a9814f5d8025210227b985563eb3e2a16942ce2a1c72b",
+  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.8/vie_scolaire_v1.0.8.zip",
+  "sha256": "1f8573a28e28eb39585d2eb52d1abc2d8ebf0e773c232b3304992cbfca1b7715",
   "changelog": "Module Vie scolaire : visites de salle, reclamations/suggestions, evaluations des enseignants, QR par salle, notifications et rapport hebdomadaire WhatsApp.",
   "released_at": "2026-10-07"
 }

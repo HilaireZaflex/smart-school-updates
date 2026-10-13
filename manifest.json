@@ -1,9 +1,9 @@
 {
   "module": "vie_scolaire",
-  "latest_version": "1.0.30",
+  "latest_version": "1.0.31",
   "min_app_version": "6.3.0",
-  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.30/vie_scolaire_v1.0.30.zip",
-  "sha256": "2f6502352e21fd4c1683e4d7957a94aeb471054a0e3ada1b6ca1c6f50452a350",
-  "changelog": "Module Vie scolaire : visites de salle, reclamations/suggestions, evaluations des enseignants, QR par salle, notifications et rapport hebdomadaire WhatsApp.",
-  "released_at": "2026-10-09"
+  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.31/vie_scolaire_v1.0.31.zip",
+  "sha256": "3e96e6ea123d6641285598f2f0ea2fb2c22e61947b5f38764d97d39e00e023be",
+  "changelog": "Paie : montant total des salaires nets par categorie (Enseignants et educatrices, Secondaire, Cantine, Lycee, Imprimerie, Autres) et masse salariale nette mensuelle globale. Les personnes payees a l'heure sont comptees separement avec leur taux.",
+  "released_at": "2026-10-13"
 }

@@ -1,9 +1,9 @@
 {
   "module": "vie_scolaire",
-  "latest_version": "1.0.31",
+  "latest_version": "1.0.32",
   "min_app_version": "6.3.0",
-  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.31/vie_scolaire_v1.0.31.zip",
-  "sha256": "3e96e6ea123d6641285598f2f0ea2fb2c22e61947b5f38764d97d39e00e023be",
-  "changelog": "Paie : montant total des salaires nets par categorie (Enseignants et educatrices, Secondaire, Cantine, Lycee, Imprimerie, Autres) et masse salariale nette mensuelle globale. Les personnes payees a l'heure sont comptees separement avec leur taux.",
+  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.32/vie_scolaire_v1.0.32.zip",
+  "sha256": "24c5287499e8c1a7d231fdf3fbe3494b7396c73c793d16fc469e5e5e4dc75642",
+  "changelog": "Certificat - Generer carte d'identite eleve : format vertical au format badge physique exact 54 x 90 mm (3 cartes par ligne a l'impression), mise en page verticale refaite sans chevauchement entre les informations et le code QR, et utilisation du logo du logiciel sur les cartes.",
   "released_at": "2026-10-13"
 }

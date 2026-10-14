@@ -1,9 +1,9 @@
 {
   "module": "vie_scolaire",
-  "latest_version": "1.0.32",
+  "latest_version": "1.0.33",
   "min_app_version": "6.3.0",
-  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.32/vie_scolaire_v1.0.32.zip",
-  "sha256": "24c5287499e8c1a7d231fdf3fbe3494b7396c73c793d16fc469e5e5e4dc75642",
-  "changelog": "Certificat - Generer carte d'identite eleve : format vertical au format badge physique exact 54 x 90 mm (3 cartes par ligne a l'impression), mise en page verticale refaite sans chevauchement entre les informations et le code QR, et utilisation du logo du logiciel sur les cartes.",
-  "released_at": "2026-10-13"
+  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.33/vie_scolaire_v1.0.33.zip",
+  "sha256": "8dcab3ba7defe30a57c60be52774734644faba280f4f8e45dd27b4f997cb2518",
+  "changelog": "Carte d'identite eleve : suivi d'impression (statut Nouvelle / A reimprimer / Imprimee), filtres avec compteurs, selection des cartes a imprimer et bouton Marquer comme imprime. Lien direct depuis l'import des photos.",
+  "released_at": "2026-10-14"
 }

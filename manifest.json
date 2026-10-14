@@ -1,9 +1,9 @@
 {
   "module": "vie_scolaire",
-  "latest_version": "1.0.33",
+  "latest_version": "1.0.34",
   "min_app_version": "6.3.0",
-  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.33/vie_scolaire_v1.0.33.zip",
-  "sha256": "8dcab3ba7defe30a57c60be52774734644faba280f4f8e45dd27b4f997cb2518",
-  "changelog": "Carte d'identite eleve : suivi d'impression (statut Nouvelle / A reimprimer / Imprimee), filtres avec compteurs, selection des cartes a imprimer et bouton Marquer comme imprime. Lien direct depuis l'import des photos.",
+  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.34/vie_scolaire_v1.0.34.zip",
+  "sha256": "d22e6af26d6365829c6570b2d76cfc1701a19dee2d1075ebb8d35d48d61e7a2d",
+  "changelog": "Cartes d'identite eleve : lien du site web de l'ecole (www.ecolecolmo.com) affiche sous l'e-mail sur les cartes horizontales et verticales. Nouveau champ Site web dans Parametre general.",
   "released_at": "2026-10-14"
 }

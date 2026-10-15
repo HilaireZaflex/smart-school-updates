@@ -1,9 +1,9 @@
 {
   "module": "vie_scolaire",
-  "latest_version": "1.0.39",
+  "latest_version": "1.0.40",
   "min_app_version": "6.3.0",
-  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.39/vie_scolaire_v1.0.39.zip",
-  "sha256": "84441a35eb01f1282d2fe111f7ae0603b9271f9cdfbaf08c28bb4287be5eecc0",
-  "changelog": "Collecte des frais : moyens de paiement Sarali ajoute, JJ et UPI retires ; boutons de la colonne Action stabilises (plus de deplacement au survol).",
+  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.40/vie_scolaire_v1.0.40.zip",
+  "sha256": "b358ec83d17f228af940286adbe753a155b7d7fd3b81208b97626468f66e7045",
+  "changelog": "Logo de l'ecole affiche seulement s'il existe (nom en texte sinon) ; ligne du site web sur les cartes seulement si renseignee.",
   "released_at": "2026-10-15"
 }

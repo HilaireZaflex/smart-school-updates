@@ -1,9 +1,9 @@
 {
   "module": "vie_scolaire",
-  "latest_version": "1.0.34",
+  "latest_version": "1.0.35",
   "min_app_version": "6.3.0",
-  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.34/vie_scolaire_v1.0.34.zip",
-  "sha256": "d22e6af26d6365829c6570b2d76cfc1701a19dee2d1075ebb8d35d48d61e7a2d",
-  "changelog": "Cartes d'identite eleve : lien du site web de l'ecole (www.ecolecolmo.com) affiche sous l'e-mail sur les cartes horizontales et verticales. Nouveau champ Site web dans Parametre general.",
-  "released_at": "2026-10-14"
+  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.35/vie_scolaire_v1.0.35.zip",
+  "sha256": "2cd002c49e9ce070478f521497a8f2624eb5f75aa15709f358f4b8fa1f0f9cfe",
+  "changelog": "Collecte des frais : liste complete des eleves sans pagination, triee alphabetiquement. Details de l'eleve : le bouton Chercher respecte la classe et la section choisies.",
+  "released_at": "2026-10-15"
 }

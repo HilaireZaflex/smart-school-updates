@@ -1,9 +1,9 @@
 {
   "module": "vie_scolaire",
-  "latest_version": "1.0.35",
+  "latest_version": "1.0.36",
   "min_app_version": "6.3.0",
-  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.35/vie_scolaire_v1.0.35.zip",
-  "sha256": "2cd002c49e9ce070478f521497a8f2624eb5f75aa15709f358f4b8fa1f0f9cfe",
-  "changelog": "Collecte des frais : liste complete des eleves sans pagination, triee alphabetiquement. Details de l'eleve : le bouton Chercher respecte la classe et la section choisies.",
+  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.36/vie_scolaire_v1.0.36.zip",
+  "sha256": "a4ec1586b7e0e4631e88999a13c3606d86f7733779ea21419d0d577edf63de1c",
+  "changelog": "Multi classe eleve : liste des eleves classee par ordre alphabetique (nom puis prenom).",
   "released_at": "2026-10-15"
 }

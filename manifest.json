@@ -1,9 +1,9 @@
 {
   "module": "vie_scolaire",
-  "latest_version": "1.0.42",
+  "latest_version": "1.0.43",
   "min_app_version": "6.3.0",
-  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.42/vie_scolaire_v1.0.42.zip",
-  "sha256": "8297ddf49f8b1ec4ab6fb25ca78171fc0a083920420b0e72cab0c87ead1312c7",
-  "changelog": "Impayes & retards : liens WhatsApp (wa.me) avec numeros normalises.",
+  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.43/vie_scolaire_v1.0.43.zip",
+  "sha256": "2dac4e607c22a852023a47543b63dd18daf1d30615507ad2127de6c42dfa2c6e",
+  "changelog": "Impayes & retards : meilleur numero parent (pere/mere/tuteur).",
   "released_at": "2026-10-18"
 }

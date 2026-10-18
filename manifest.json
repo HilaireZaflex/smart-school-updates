@@ -1,9 +1,9 @@
 {
   "module": "vie_scolaire",
-  "latest_version": "1.0.46",
+  "latest_version": "1.0.47",
   "min_app_version": "6.3.0",
-  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.46/vie_scolaire_v1.0.46.zip",
-  "sha256": "088dac1a500e783f202319e56b2bcf91e9fabc3c105839510113cc50f6a0b738",
-  "changelog": "Refonte visuelle de Impayes & retards et Synthese des retards : tableaux compacts et alignes, totaux visibles, filtres equilibres, modale WhatsApp repensee.",
+  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.47/vie_scolaire_v1.0.47.zip",
+  "sha256": "efb060a906db775cee7c421b5d9d87e89218ee4f884e733728f6058f5f2a2e0c",
+  "changelog": "Impayes & retards : pagination accessible au-dessus du tableau, noms d'eleves plus lisibles, avatar compact. Synthese : libelles des chiffres cles ajustes.",
   "released_at": "2026-10-18"
 }

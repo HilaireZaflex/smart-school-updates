@@ -1,9 +1,9 @@
 {
   "module": "vie_scolaire",
-  "latest_version": "1.0.44",
+  "latest_version": "1.0.45",
   "min_app_version": "6.3.0",
-  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.44/vie_scolaire_v1.0.44.zip",
-  "sha256": "72813d776369eff45d90383b3168db6eeda113d85f52ceb9f39f503c0da8925c",
-  "changelog": "Impayes & retards : bouton WhatsApp desactive si aucun numero.",
+  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.45/vie_scolaire_v1.0.45.zip",
+  "sha256": "f1a7fa92dd0a1d63fe03729e97368c5cb1303db0852ddcf95ada1edf6c36a404",
+  "changelog": "Impayes & retards : libelle du montant en retard clarifie.",
   "released_at": "2026-10-18"
 }

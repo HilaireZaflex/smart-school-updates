@@ -1,9 +1,9 @@
 {
   "module": "vie_scolaire",
-  "latest_version": "1.0.53",
+  "latest_version": "1.0.54",
   "min_app_version": "6.3.0",
-  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.53/vie_scolaire_v1.0.53.zip",
-  "sha256": "08335549525b7bf29c1014db692504ff9d8cc4fa07d3ae78c6c0010cd8a054dd",
-  "changelog": "Numeros des parents normalises (+223XXXXXXXX), badge et filtre des relances deja envoyees, export CSV des eleves sans numero.",
+  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.54/vie_scolaire_v1.0.54.zip",
+  "sha256": "4f64872443ff2700ad875ee54fae605e01d7ed2f650cdac75edf42328da3f1b5",
+  "changelog": "Synthese des retards : seules les relances reellement envoyees sont comptees.",
   "released_at": "2026-10-19"
 }

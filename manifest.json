@@ -1,9 +1,9 @@
 {
   "module": "vie_scolaire",
-  "latest_version": "1.0.54",
+  "latest_version": "1.0.55",
   "min_app_version": "6.3.0",
-  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.54/vie_scolaire_v1.0.54.zip",
-  "sha256": "4f64872443ff2700ad875ee54fae605e01d7ed2f650cdac75edf42328da3f1b5",
-  "changelog": "Synthese des retards : seules les relances reellement envoyees sont comptees.",
+  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.55/vie_scolaire_v1.0.55.zip",
+  "sha256": "c2b6d00fa45ca3ee2eef9fc6538f9c8fe3ce4e264ec3d7631b79110a2d32ecce",
+  "changelog": "Impayes & retards : export des eleves sans numero dans l'entete de la liste, barre d'outils sur une ligne.",
   "released_at": "2026-10-19"
 }

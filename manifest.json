@@ -1,9 +1,9 @@
 {
   "module": "vie_scolaire",
-  "latest_version": "1.0.51",
+  "latest_version": "1.0.52",
   "min_app_version": "6.3.0",
-  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.51/vie_scolaire_v1.0.51.zip",
-  "sha256": "2e88be77470d957a95ab232eb2bb69f25ed9729ffd6bd624685bb6317b003219",
-  "changelog": "WhatsApp : jeton d'acces (token) pour securiser le micro-service expose sur Internet (Railway, VPS).",
+  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.52/vie_scolaire_v1.0.52.zip",
+  "sha256": "2eb38c80a3ff5df42e8f4bc87213cb9bf8078acfbb89a34bb208f93f2598167e",
+  "changelog": "Impayes & retards : bouton Tout selectionner et envoi WhatsApp par paquets (progression, journal, arret, recapitulatif).",
   "released_at": "2026-10-19"
 }

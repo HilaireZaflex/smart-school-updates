@@ -1,9 +1,9 @@
 {
   "module": "vie_scolaire",
-  "latest_version": "1.0.52",
+  "latest_version": "1.0.53",
   "min_app_version": "6.3.0",
-  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.52/vie_scolaire_v1.0.52.zip",
-  "sha256": "2eb38c80a3ff5df42e8f4bc87213cb9bf8078acfbb89a34bb208f93f2598167e",
-  "changelog": "Impayes & retards : bouton Tout selectionner et envoi WhatsApp par paquets (progression, journal, arret, recapitulatif).",
+  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.53/vie_scolaire_v1.0.53.zip",
+  "sha256": "08335549525b7bf29c1014db692504ff9d8cc4fa07d3ae78c6c0010cd8a054dd",
+  "changelog": "Numeros des parents normalises (+223XXXXXXXX), badge et filtre des relances deja envoyees, export CSV des eleves sans numero.",
   "released_at": "2026-10-19"
 }

@@ -1,9 +1,9 @@
 {
   "module": "vie_scolaire",
-  "latest_version": "1.0.48",
+  "latest_version": "1.0.49",
   "min_app_version": "6.3.0",
-  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.48/vie_scolaire_v1.0.48.zip",
-  "sha256": "78de29d73622f501fe48a0016b6c077f2184a54ab34851bc25a5a9cd3b045900",
-  "changelog": "Impayes & retards : colonne eleve elargie pour afficher les noms complets.",
-  "released_at": "2026-10-18"
+  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.49/vie_scolaire_v1.0.49.zip",
+  "sha256": "c71fa61f2ce9df968d5c92c8fa73182f46ed568343567b7e60b7b8643a80c67f",
+  "changelog": "Chiffres cles compacts sur ecrans 1280-1399 px : les 4 cartes tiennent sur une ligne, la liste reste visible.",
+  "released_at": "2026-10-19"
 }

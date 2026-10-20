@@ -1,9 +1,9 @@
 {
   "module": "vie_scolaire",
-  "latest_version": "1.0.59",
+  "latest_version": "1.0.60",
   "min_app_version": "6.3.0",
-  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.59/vie_scolaire_v1.0.59.zip",
-  "sha256": "4b9381cb8c2457ff038803ec80b24e7d57c6ab385051108749c5aeec5f0ea079",
-  "changelog": "Impayes & retards : pagination supprimee, tous les eleves affiches sur une seule page avec en-tete fixe.",
+  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.60/vie_scolaire_v1.0.60.zip",
+  "sha256": "f120d8c52b554f7fd401e71831a085ffc62e924dcf9964257b05368ff600dc9e",
+  "changelog": "Liste des impayes : en-tete du tableau fixe pendant le defilement.",
   "released_at": "2026-10-20"
 }

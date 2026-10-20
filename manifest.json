@@ -1,9 +1,9 @@
 {
   "module": "vie_scolaire",
-  "latest_version": "1.0.56",
+  "latest_version": "1.0.57",
   "min_app_version": "6.3.0",
-  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.56/vie_scolaire_v1.0.56.zip",
-  "sha256": "cb981479846804de52c9f93fb509649ca613efa23e87e3c243ffd3dd4f11dbd6",
-  "changelog": "Connexion : lien vers l'administration sur la page eleves/parents et message clair lorsqu'un compte du personnel est saisi au mauvais endroit.",
+  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.57/vie_scolaire_v1.0.57.zip",
+  "sha256": "6dd1b6a6e6eadb21af7aa8642cc39e6e427074e9752fb2519a487a5d3082537e",
+  "changelog": "Message WhatsApp de relance plus poli et mieux presente : nom de l'ecole en tete, civilite Madame/Monsieur, date limite et montants mis en avant.",
   "released_at": "2026-10-20"
 }

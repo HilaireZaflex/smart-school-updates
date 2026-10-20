@@ -1,9 +1,9 @@
 {
   "module": "vie_scolaire",
-  "latest_version": "1.0.57",
+  "latest_version": "1.0.58",
   "min_app_version": "6.3.0",
-  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.57/vie_scolaire_v1.0.57.zip",
-  "sha256": "6dd1b6a6e6eadb21af7aa8642cc39e6e427074e9752fb2519a487a5d3082537e",
-  "changelog": "Message WhatsApp de relance plus poli et mieux presente : nom de l'ecole en tete, civilite Madame/Monsieur, date limite et montants mis en avant.",
+  "download_url": "https://github.com/HilaireZaflex/smart-school-updates/releases/download/v1.0.58/vie_scolaire_v1.0.58.zip",
+  "sha256": "9417669076905b7ff9f0e91376cd791b1e6b051412ca71344f66d8bdd92e2845",
+  "changelog": "WhatsApp : affiche la raison exacte d'un echec d'envoi au lieu du message generique.",
   "released_at": "2026-10-20"
 }
